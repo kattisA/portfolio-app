@@ -43,6 +43,11 @@
 
       h3 {
         font-size: 30px;
+
+        span {
+          font-size: inherit;
+          color:crimson;
+        }
       }
     }
 
@@ -54,6 +59,14 @@
       .icon {
         font-size: 40px;
         color:black;
+        animation: arrowBlink 2s infinite;
+      }
+
+      @keyframes arrowBlink {
+        100%{
+          opacity: 0;
+        }
+
       }
     }
   }
