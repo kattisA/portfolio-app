@@ -16,6 +16,22 @@ function Portfolio() {
           <img src="assets/cookie-the-pom-siNDDi9RpVY-unsplash.jpg" alt="" />
           <h3>Banking App</h3>
         </div>
+        <div className="item">
+          <img src="assets/cookie-the-pom-siNDDi9RpVY-unsplash.jpg" alt="" />
+          <h3>Banking App</h3>
+        </div>
+        <div className="item">
+          <img src="assets/cookie-the-pom-siNDDi9RpVY-unsplash.jpg" alt="" />
+          <h3>Banking App</h3>
+        </div>
+        <div className="item">
+          <img src="assets/cookie-the-pom-siNDDi9RpVY-unsplash.jpg" alt="" />
+          <h3>Banking App</h3>
+        </div>
+        <div className="item">
+          <img src="assets/cookie-the-pom-siNDDi9RpVY-unsplash.jpg" alt="" />
+          <h3>Banking App</h3>
+        </div>
       </div>
     </div>
   );
