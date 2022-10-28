@@ -1,13 +1,13 @@
 @import "../../global.scss";
 .portfolioList {
   font-size: 14px;
-  margin-right: 50px;
+  margin-right: 3.1rem;
   padding: 7px;
-  border-radius: 10px;
+  border-radius: 0.6rem;
   cursor: pointer;
 
   @include mobile{
-    margin-right: 20px;
+    margin-right: 1.2rem;
   }
 
   &.active {
