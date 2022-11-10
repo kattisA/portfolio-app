@@ -24,7 +24,7 @@ After cloning the project run npm install. To start the project type npm start i
 Use React documentation to install.
 
 ## Future development
-There are some things I would like to improve lika using rem instead of px or procent. At this moment I would like to rewrite the portfolio to be more personal but I will be able to use this as a refferal. 
+I have improved using rem instead of px or procent in the project. At this moment I would like to rewrite the portfolio to be more personal but I will be able to use this as a refferal, so I will keep it this way.
 
 ## Authors
 
